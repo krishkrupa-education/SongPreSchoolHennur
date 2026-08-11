@@ -65,7 +65,12 @@ const teamItems = [
     img: 'assets/10-Karuna.png',
     bio: 'Karuna brings over 15 years of experience in education, with deep expertise in early childhood learning, Montessori practice, and child development. She is AMI-trained for both the 3 to 6 and 12 to 18 age groups, and also brings training in child psychology and RIE. As CAO, Karuna guides the academic vision, curriculum approach, and learning philosophy across the preschool.'
   },
-
+  {
+    name: 'Surekha P',
+    designation: 'Centre Head',
+    img: 'assets/17-Surekha.png',
+    bio: 'Surekha brings over three years of hands-on experience in early childhood settings, including her time as a Leap Teacher at Koala Preschool and as a Senior Supermam at Footprints Preschool and Daycare. She holds Montessori Teacher\'s Training and brings strong multilingual capability across Telugu, Kannada, Hindi, English, and Tamil - an asset in Bangalore\'s diverse parent community. At S.O.N.G., Surekha leads and oversees the day-to-day running of the centre, implementation of the curriculum, and ensures that the environment being fostered make every child and family feel welcomed, supported, and cared for.'
+  },
   {
     name: 'Zaheerunnisa A',
     designation: 'Teacher',
