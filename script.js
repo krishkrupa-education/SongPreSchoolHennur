@@ -90,12 +90,6 @@ const teamItems = [
     bio: 'Vijji brings prior experience working in a preschool and daycare environment, where she has supported young children through their daily routines. At S.O.N.G., she helps create a clean, safe, and caring space for children throughout the day. Her warm presence and attentiveness make her a trusted support for both children and teachers, ensuring children feel comfortable, cared for, and secure.'
   },
   {
-    name: 'Raghu B',
-    designation: 'Strategic Advisor & Chairman',
-    img: 'assets/15-Raghu.png',
-    bio: 'Raghu brings a strong cross-sector background spanning healthcare, investment banking, health-tech entrepreneurship, and startup advisory. As Strategic Advisor and Chairman at S.O.N.G., he provides guidance on long-term vision, governance, growth, and institutional partnerships. His experience as a founder and advisor gives him a practical understanding of building organisations from the ground up, while his healthcare background brings a deep appreciation for care, trust, and child wellbeing.'
-  },
-  {
     name: 'Varun B',
     designation: 'COO',
     img: 'assets/16-Varun.png',
